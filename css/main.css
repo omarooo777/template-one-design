@@ -226,7 +226,7 @@ header .container .div_links ul li:hover a {
   color: var(--main-color);
 }
 .servises .container .servises_content .column .servise h3 {
-  margin: 0 0 20px 20px;
+  margin: 0 0 20px 0;
 }
 .servises .container .servises_content .column .servise p {
   color: var(--p-color);
