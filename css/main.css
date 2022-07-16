@@ -259,7 +259,7 @@ header .container .div_links ul li:hover a {
     flex-basis: 50px;
   }
   .servise h3 {
-    margin: 0;
+    margin: 0 !important;
   }
   .servise {
     flex-direction: column;
